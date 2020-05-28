@@ -1,0 +1,5 @@
+export { buyCake } from './cakes/cakeAction'
+export { buyIcecream } from './icecream/icecreamAction'
+export { buyChocolate } from './chocolate/chocolateAction'
+export * from './user/userActions'
+export { sellCash } from './cash/cashActions'
